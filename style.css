@@ -11,7 +11,7 @@ html {
 }
 
 :root{
-    --color1: #469B9B;
+    --color1: rgb(212, 95, 212);
     --color2: #F06B1D;
     --color3: #00EFEE;
     --color4: #B06A41;
@@ -91,7 +91,7 @@ nav a {
 button {
     background-color: var(--color1);
     border-radius: 10px;
-    color: white;
+    color: rgb(212, 95, 212);
     border: none;
     padding: 10px 20px;
     cursor: pointer;
@@ -107,7 +107,7 @@ button:hover {
 .indice{
   border: 3px solid var(--color2);
   background-color: var(--color4);
-  color: white;
+  color: rgb(212, 95, 212);
   border-radius: 5px;
   text-align: center;
 }
